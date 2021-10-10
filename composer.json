@@ -1,0 +1,17 @@
+{
+    "name": "code-tieumomo/basic-authentication",
+    "description": "Basic authentication set up for laravel. Includes Login, Register, Logout and validators.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CodeTieumomo\\BasicAuthentication\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "code-tieumomo",
+            "email": "code.tieumomo@gmail.com"
+        }
+    ],
+    "require": {}
+}
